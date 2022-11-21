@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Robot&size=40&duration=2000&pause=1300&center=true&vCenter=true&width=500&height=100&lines=Welcome+to+my+Github!;Take+a+look+around!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Robot&size=40&duration=2000&pause=1300&center=true&vCenter=true&width=500&height=80&lines=Welcome+to+my+Github!;Take+a+look+around!)](https://git.io/typing-svg)
 
 # About Me
 I'm currently a senior in highschool and have a strong interest in algorithmic trading :chart_with_upwards_trend: and data science :bar_chart:. My goal is to get into Computer Scence at the University of Waterloo!
