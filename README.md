@@ -8,8 +8,8 @@
 ## Languages
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
+![matplotlib](https://img.shields.io/badge/MatPlotLib-#1a3669?style=for-the-badge&logo=matplotlib&logoColor=ffdd54)
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
 
 
 ## Learning
