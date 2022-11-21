@@ -23,7 +23,7 @@ I'm currently a senior in highschool and have a strong interest in algorithmic t
 ![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtang25&show_icons=true&theme=transparent&hide_border=true)
 
 # PC
-![intel](https://img.shields.io/badge/Intel-Core_i9_13900KF-0071C5?style=for-the-badge&logo=intel&logoColor=blue)
+![intel](https://img.shields.io/badge/Intel-Core_i9_13900KF-0071C5?style=for-the-badge&logo=intel&logoColor=light-blue)
 ![nvidia](https://img.shields.io/badge/NVIDIA-RTX_4080-76B900?style=for-the-badge&logo=nvidia&logoColor=green)
 
 # Tools
