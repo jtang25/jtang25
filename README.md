@@ -9,6 +9,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jtang25&theme=github-dark-blue)](https://git.io/streak-stats)
 ![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtang25&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtang25)](https://github.com/jtang25/github-readme-stats)
 
 ## Page Info
 ![Visitor Badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=jtang25&style=for-the-badge&logo=github&logoColor=white&color=5AC69D&labelColor=white)
