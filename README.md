@@ -8,11 +8,18 @@
 ## Languages
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
+![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
+
+
+## Learning
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jtang25&theme=github-dark-blue&show_icons=true&hide_border=true&border_radius=0)](https://git.io/streak-stats)
 ![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtang25&show_icons=true&theme=transparent&hide_border=true)
 
+## PC
+![intel](https://img.shields.io/badge/Intel-Core_i9_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![nvidia](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 
 ## Page Info
