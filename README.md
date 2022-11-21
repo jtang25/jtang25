@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello%2C+World!+I'm+Jason+Tang!;Come+explore+my+Github+page!)](https://git.io/typing-svg)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
 
 ## Contact
 <!--
@@ -7,7 +7,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasontang0226@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-tang-on21/)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jtang25&theme=tokyonight)
 ![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtang25&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtang25&theme=tokyonight)
 
