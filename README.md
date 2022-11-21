@@ -13,6 +13,8 @@
 
 
 ## Learning
+![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![sklearn](https://img.shields.io/badge/SciKit-2a7ac9?style=for-the-badge&logo=scikitlearn&logoColor=orange)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jtang25&theme=github-dark-blue&show_icons=true&hide_border=true&border_radius=0)](https://git.io/streak-stats)
 ![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtang25&show_icons=true&theme=transparent&hide_border=true)
@@ -20,7 +22,6 @@
 ## PC
 ![intel](https://img.shields.io/badge/Intel-Core_i9_13900KF-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![nvidia](https://img.shields.io/badge/NVIDIA-RTX_4080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
 
 ## Page Info
 ![Visitor Badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=jtang25&style=for-the-badge&logo=github&logoColor=white&color=5AC69D&labelColor=white)
