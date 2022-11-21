@@ -10,7 +10,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jtang25&theme=github-dark-blue)](https://git.io/streak-stats)
 ![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtang25&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtang25&theme=transparent)](https://github.com/jtang25/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=jtang25&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 ## Page Info
 ![Visitor Badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=jtang25&style=for-the-badge&logo=github&logoColor=white&color=5AC69D&labelColor=white)
