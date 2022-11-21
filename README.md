@@ -19,7 +19,7 @@
 
 ## PC
 ![intel](https://img.shields.io/badge/Intel-Core_i9_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![nvidia](https://img.shields.io/badge/NVIDIA-RTX-4080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![nvidia](https://img.shields.io/badge/NVIDIA-4080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 
 ## Page Info
