@@ -10,6 +10,8 @@ I'm currently a senior in highschool and have a strong interest in algorithmic t
 # Skills
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
+![numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=0A9EDC)
+![pandas](https://img.shields.io/badge/Pandas-#150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 
 # Learning
@@ -23,6 +25,11 @@ I'm currently a senior in highschool and have a strong interest in algorithmic t
 # PC
 ![intel](https://img.shields.io/badge/Intel-Core_i9_13900KF-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![nvidia](https://img.shields.io/badge/NVIDIA-RTX_4080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+# Tools
+![jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+
 
 # Page Info
 ![Visitor Badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=jtang25&style=for-the-badge&logo=github&logoColor=white&color=5AC69D&labelColor=white)
