@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Robot&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github!;Take+a+look+around!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Robot&size=40&duration=2500&pause=1000&center=true&vCenter=true&width=600&height=200&lines=Welcome+to+my+Github!;Take+a+look+around!)](https://git.io/typing-svg)
 
 ## Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasontang0226@gmail.com)
