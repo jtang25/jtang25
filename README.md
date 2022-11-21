@@ -6,6 +6,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-tang-on21/)
 
 ## Languages
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jtang25&theme=github-dark-blue&show_icons=true&hide_border=true&border_radius=0)](https://git.io/streak-stats)
 ![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtang25&show_icons=true&theme=transparent&hide_border=true)
