@@ -28,7 +28,7 @@ I'm currently a senior in highschool and have a strong interest in algorithmic t
 
 # Tools
 ![jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
+![ibm](https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
 
 # Page Info
