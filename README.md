@@ -11,7 +11,7 @@ I'm currently a senior in highschool and have a strong interest in algorithmic t
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=0A9EDC)
-![pandas](https://img.shields.io/badge/Pandas-#150458?style=for-the-badge&logo=pandas&logoColor=white)
+![pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 
 # Learning
