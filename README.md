@@ -19,7 +19,7 @@ I'm currently a senior in highschool and have a strong interest in algorithmic t
 ![sklearn](https://img.shields.io/badge/SciKit_Learn-2a7ac9?style=for-the-badge&logo=scikitlearn&logoColor=orange)
 ![r](https://img.shields.io/badge/R-3776AB?style=for-the-badge&logo=r&logoColor=white)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jtang25&theme=transparent&show_icons=true&hide_border=true&border_radius=0)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jtang25&theme=github-dark-blue&show_icons=true&hide_border=true&border_radius=0)](https://git.io/streak-stats)
 ![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtang25&show_icons=true&theme=transparent&hide_border=true)
 
 # PC
