@@ -29,7 +29,7 @@ I'm currently a senior in highschool and have a strong interest in algorithmic t
 # Tools
 ![jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![ibm](https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![netbeans](https://img.shields.io/badge/NetBeans-b31109?style=for-the-badge&logo=netbeans&logoColor=white)
+![netbeans](https://img.shields.io/badge/NetBeans-b31109?style=for-the-badge&logo=apachenetbeans&logoColor=white)
 
 
 # Page Info
