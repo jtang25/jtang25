@@ -23,7 +23,7 @@ I'm currently a senior in highschool and have a strong interest in algorithmic t
 ![jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![ibm](https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![netbeans](https://img.shields.io/badge/NetBeans-b31109?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
-![intellij](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![intellij](https://img.shields.io/badge/IntelliJ-ffffff?style=for-the-badge&logo=intellijidea&logoColor=black)
 
 # Profile Statistics
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jtang25&theme=github-dark-blue&show_icons=true&hide_border=true&border_radius=0)](https://git.io/streak-stats)
