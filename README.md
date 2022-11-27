@@ -17,6 +17,7 @@ I'm currently a senior in highschool and have a strong interest in algorithmic t
 ![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![sklearn](https://img.shields.io/badge/SciKit_Learn-2a7ac9?style=for-the-badge&logo=scikitlearn&logoColor=orange)
 ![r](https://img.shields.io/badge/R-3776AB?style=for-the-badge&logo=r&logoColor=white)
+![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 # Tools
 ![jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
