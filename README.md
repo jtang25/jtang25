@@ -34,4 +34,4 @@ I'm currently a senior in highschool and have a strong interest in algorithmic t
 ![nvidia](https://img.shields.io/badge/NVIDIA-RTX_4080-76B900?style=for-the-badge&logo=nvidia&logoColor=green)
 
 # Page Info
-![Visitor Badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=jtang25&style=for-the-badge&logo=github&logoColor=white&color=5AC69D&labelColor=white)
+![](https://komarev.com/ghpvc/?username=jtang25)
