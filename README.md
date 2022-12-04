@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Robot&size=40&duration=2000&pause=1300&center=false&vCenter=false&width=500&height=80&lines=Welcome+to+my+Github!;Take+a+look+around!)](https://git.io/typing-svg)
 
 # About Me
-I'm currently a senior in highschool and have a strong interest in algorithmic trading :chart_with_upwards_trend: and data science :bar_chart:. My goal is to get into Computer Scence at the University of Waterloo! The project that I am currently working on is a portfolio optimizer algorithm that rebalances a portfolio based on their score given by my custom indicator. 
+I'm currently a senior in highschool and have a strong interest in algorithmic trading :chart_with_upwards_trend: and data science :bar_chart:. My goal is to get into Computer Science at the University of Waterloo! The project that I am currently working on is a portfolio optimizer algorithm that rebalances a portfolio based on their score given by my custom indicator. 
 
 # Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasontang0226@gmail.com)
