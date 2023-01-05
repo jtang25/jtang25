@@ -1,10 +1,6 @@
 # About Me
 I'm currently a senior in highschool and have a strong interest in algorithmic trading :chart_with_upwards_trend: and data science :bar_chart:. My goal is to get into Computer Science at the University of Waterloo! The project that I am currently working on is a portfolio optimizer algorithm that rebalances a portfolio based on their score given by my custom indicator. 
 
-# Contact
-Gmail: jasontang0226@gmail.com
-LinkedIn: https://www.linkedin.com/in/jason-tang-on21/
-
 # Skills
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
