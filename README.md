@@ -1,11 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Robot&size=40&duration=2000&pause=1300&center=false&vCenter=false&width=500&height=80&lines=Welcome+to+my+Github!;Take+a+look+around!)](https://git.io/typing-svg)
-
 # About Me
 I'm currently a senior in highschool and have a strong interest in algorithmic trading :chart_with_upwards_trend: and data science :bar_chart:. My goal is to get into Computer Science at the University of Waterloo! The project that I am currently working on is a portfolio optimizer algorithm that rebalances a portfolio based on their score given by my custom indicator. 
 
 # Contact
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasontang0226@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-tang-on21/)
+Gmail: jasontang0226@gmail.com
+LinkedIn: https://www.linkedin.com/in/jason-tang-on21/
 
 # Skills
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -28,10 +26,6 @@ I'm currently a senior in highschool and have a strong interest in algorithmic t
 # Profile Statistics
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jtang25&theme=github-dark-blue&show_icons=true&hide_border=true&border_radius=0)](https://git.io/streak-stats)
 ![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtang25&show_icons=true&theme=transparent&hide_border=true)
-
-# PC
-![intel](https://img.shields.io/badge/Intel-Core_i9_13900KF-0071c5?style=for-the-badge&logo=intel&logoColor=00c8ff)
-![nvidia](https://img.shields.io/badge/NVIDIA-RTX_4080-76B900?style=for-the-badge&logo=nvidia&logoColor=green)
 
 # Page Info
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=jtang25&style=for-the-badge&logo=github&logoColor=white&color=5AC69F&labelColor=white)
