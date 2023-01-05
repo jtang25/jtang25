@@ -13,7 +13,7 @@ I'm currently a senior in highschool and have a strong interest in algorithmic t
 ![r](https://img.shields.io/badge/R-3776AB?style=for-the-badge&logo=r&logoColor=white)
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-# Tools
+# IDEs
 ![jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![ibm](https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![netbeans](https://img.shields.io/badge/NetBeans-b31109?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
