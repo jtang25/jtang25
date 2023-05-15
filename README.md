@@ -7,4 +7,4 @@ I'm currently a senior in highschool and have a strong interest in algorithmic t
 ![Langauge Use](https://github-readme-stats.vercel.app/api/top-langs/?username=jtang25&theme=transparent&hide_border=true)
 
 # Page Info
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=jtang25&style=for-the-badge&logo=github&logoColor=white&color=5AC69F&labelColor=white)
+![](https://komarev.com/ghpvc/?username=jtang25)
