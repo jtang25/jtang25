@@ -3,8 +3,6 @@ I'm currently a senior in highschool and have a strong interest in algorithmic t
 
 # Profile Statistics
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jtang25&theme=github-dark-blue&show_icons=true&hide_border=true&border_radius=0)](https://git.io/streak-stats)
-![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtang25&show_icons=true&theme=transparent&hide_border=true)
-![Langauge Use](https://github-readme-stats.vercel.app/api/top-langs/?username=jtang25&theme=transparent&hide_border=true)
 
 # Page Info
 ![](https://komarev.com/ghpvc/?username=jtang25)
