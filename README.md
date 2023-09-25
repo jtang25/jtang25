@@ -1,5 +1,5 @@
 # About Me
-I'm currently a senior in highschool and have a strong interest in algorithmic trading :chart_with_upwards_trend: and data science :bar_chart:. My goal is to get into Computer Science at the University of Waterloo! The project that I am currently working on is a portfolio optimizer algorithm that rebalances a portfolio based on their score given by my custom indicator. 
+I'm currently in my first year of Honors Mathematics at the University of Waterloo and have a strong interest in machine learning 🤖 and algorithmic trading :chart_with_upwards_trend:. I'm currently working on building a neural network from scratch and adding the finishing touches to a few other interesting projects. Feel free to reach out!
 
 # Profile Statistics
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jtang25&theme=github-dark-blue&show_icons=true&hide_border=true&border_radius=0)](https://git.io/streak-stats)
